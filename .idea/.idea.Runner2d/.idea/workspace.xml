@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d54bea5e-009b-4496-83c3-4d9c4e953a0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Runner2d/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runner2d/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Runner2d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runner2d/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/GenreAnimations/GenreButton.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/GenreAnimations/GenreButton.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Used/GROBOLD 2 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Used/GROBOLD 2 SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Used/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Used/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Used/Roboto-Condensed SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Used/Roboto-Condensed SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelDesign/Essentials-Gameplay-Scenary4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ObjectsToPool/Collectable_4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ObjectsToPool/Collectable_4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ObjectsToPool/Collectable_5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ObjectsToPool/Collectable_5.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Others/FadeCanvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Others/FadeCanvas.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Others/SaveDataManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Others/SaveDataManager.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/PopUps/TriviaPopUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/PopUps/TriviaPopUp.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level10.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level10.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level11.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level11.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level12.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level12.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level6.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level7.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level7.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level8.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Gameplay/Level9.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScreen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScreen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SelectionScreen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SelectionScreen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioMixerManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioMixerManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BackgroundMusic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BackgroundMusic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectable_Identifier.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectable_Identifier.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameStates.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameStates.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DesignPatterns.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool/GameObjectPool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool/GameObjectPool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool/ObjectInGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool/ObjectInGame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extension Methods.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extension Methods/Extensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extension Methods/Extensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/CollectableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/CollectableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/EndMessage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/EndMessage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/ScoreManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/ScoreManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax/Parallax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax/Parallax.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax/ParallaxEffect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax/ParallaxEffect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax/Parallaxing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parallax/Parallaxing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/ISerializable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/ISerializable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/InitializeSaveData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/InitializeSaveData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/PlayerPrefsSaveData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/PlayerPrefsSaveData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/SaveDataManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/SaveDataManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/SavegameManager_Interfaces.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save/SavegameManager_Interfaces.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Utils/SceneUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Utils/SceneUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Utils/StringUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Utils/StringUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/Enemigos.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/Enemigos.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/Nubes 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/Nubes 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/Nubes Simple.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/Nubes Simple.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/Outline_Boy.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/Outline_Boy.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/Outline_Enemies.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/Outline_Enemies.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/Outline_GIrl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OtherMaterials/Outline_GIrl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OutlineSample.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/OutlineSample.shadersubgraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/PixelOutline.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Others/PixelOutline.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade21.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade_try.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Fade Patterns/fade_try.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/SceneTransition.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/SceneTransition.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/SceneTransitionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/SceneTransitionController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Transition.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Transition/Transition.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/INTRO.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/INTRO.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Loop.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Loop.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Runner2d-pantallas iniciales.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/Runner2d-pantallas iniciales.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/AWW.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/AWW.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/CLICK 1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/CLICK 1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/CLICK 2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/CLICK 2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/ERROR.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/ERROR.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/FAIL_FX.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/FAIL_FX.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/Jump.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/Jump.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/NUBES.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/NUBES.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/Others.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/RainNCheer.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/RainNCheer.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/SUCCESS_FX.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sounds/SFX/SUCCESS_FX.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelUIManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/InitializeSaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ParallaxEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parallax.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parallaxing.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CollectableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/EndMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool/ObjectInGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/StringUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parallax/Parallaxing.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Collectable_Identifier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DesignPatterns/ObjectPool/GameObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioMixerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/SceneTransitionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/CollectableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/GameStates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelUIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extension Methods/Extensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Transition/SceneTransitionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveDataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScoreUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/PlayerPrefsSaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/SceneUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioMixerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BackgroundMusic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/InitializeSaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/EndMessage.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hzX87hLgRlW2bh12eovBCO2WFF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d54bea5e-009b-4496-83c3-4d9c4e953a0b" name="Default Changelist" comment="" />
+      <created>1601014736934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601014736934</updated>
+      <workItem from="1601014767445" duration="4271000" />
+      <workItem from="1601088403381" duration="13844000" />
+      <workItem from="1601236849692" duration="12932000" />
+      <workItem from="1601413946854" duration="11386000" />
+      <workItem from="1601613432535" duration="2171000" />
+      <workItem from="1601699911505" duration="2586000" />
+      <workItem from="1602002100743" duration="3178000" />
+      <workItem from="1602055259279" duration="1462000" />
+      <workItem from="1602263143582" duration="1742000" />
+      <workItem from="1602305199987" duration="7402000" />
+      <workItem from="1602562279685" duration="9820000" />
+      <workItem from="1602737620583" duration="2683000" />
+      <workItem from="1602823874997" duration="3794000" />
+      <workItem from="1602867255634" duration="5362000" />
+      <workItem from="1602975214737" duration="6711000" />
+      <workItem from="1603170038038" duration="8836000" />
+      <workItem from="1603180620642" duration="862000" />
+      <workItem from="1603323260749" duration="6024000" />
+      <workItem from="1603657486470" duration="2908000" />
+      <workItem from="1603755081827" duration="3769000" />
+      <workItem from="1603870266277" duration="2858000" />
+      <workItem from="1603914069654" duration="12260000" />
+      <workItem from="1604012031263" duration="2960000" />
+      <workItem from="1604035375119" duration="1592000" />
+      <workItem from="1604386710394" duration="5783000" />
+      <workItem from="1604517160068" duration="4000000" />
+      <workItem from="1604540654475" duration="2148000" />
+      <workItem from="1604548376042" duration="9315000" />
+      <workItem from="1604566502383" duration="355000" />
+      <workItem from="1604631318257" duration="3400000" />
+      <workItem from="1604711496771" duration="3365000" />
+      <workItem from="1604765606102" duration="8137000" />
+      <workItem from="1604816355326" duration="961000" />
+      <workItem from="1604861115592" duration="5150000" />
+      <workItem from="1604893424041" duration="1509000" />
+      <workItem from="1604990560211" duration="4822000" />
+      <workItem from="1605133732240" duration="803000" />
+      <workItem from="1605140299138" duration="8189000" />
+      <workItem from="1605214673704" duration="1238000" />
+      <workItem from="1605398118373" duration="762000" />
+      <workItem from="1605420917944" duration="1102000" />
+      <workItem from="1605587146845" duration="108000" />
+      <workItem from="1605587326007" duration="3010000" />
+      <workItem from="1605725849368" duration="2027000" />
+      <workItem from="1605729514852" duration="1794000" />
+      <workItem from="1605770026017" duration="1959000" />
+      <workItem from="1606144834614" duration="201000" />
+      <workItem from="1606274867963" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602739154817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602739154817" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605134920393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605134920393" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602566032814" />
+  </component>
+</project>
